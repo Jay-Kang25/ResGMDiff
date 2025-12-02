@@ -1,3 +1,2 @@
-# ResGMDiff
+# ResGMDiff:Residual-Guided Multiscale Diffusion Model for Low-Dose CT Denoising
 Coming Soon\
-Code for "Residual-Guided Multiscale Diffusion Model for  Low-Dose CT Denoising"

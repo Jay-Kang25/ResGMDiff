@@ -8,4 +8,4 @@ conda env create -f install.yaml
 ```
 
 # Data Preparation
-The AAPM-Mayo dataset can be found from: [Mayo 2016](https://ctcicblog.mayo.edu/2016-low-dose-ct-grand-challenge/).
+The AAPM-Mayo dataset can be found from: [Mayo 2016](https://ctcicblog.mayo.edu/).

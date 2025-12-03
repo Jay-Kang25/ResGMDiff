@@ -9,3 +9,4 @@ conda env create -f install.yaml
 
 # Data Preparation
 The AAPM-Mayo dataset can be found from: [Mayo 2016](https://ctcicblog.mayo.edu/).
+The QIN Lung CT dataset can be found from:[QIN Lung CT](https://www.cancerimagingarchive.net/collection/qin-lung-ct/)

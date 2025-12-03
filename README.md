@@ -20,3 +20,7 @@ To evaluate LDCT image, run:
 ```bash
 PYTHONPATH=$(pwd) python ResGMDiff-main/test.py
 ```
+
+# Acknowledge
+Our codebase builds heavily on Residual Denoising Diffusion Models. Thanks for open-sourcing!
+
